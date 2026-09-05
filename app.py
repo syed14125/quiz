@@ -342,7 +342,7 @@ def teacher_sidebar():
 
     pw = st.sidebar.text_input(
         "syed1234@",
-        type="11223344"
+        type="password"
     )
 
     if st.sidebar.button(
