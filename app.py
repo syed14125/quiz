@@ -341,7 +341,7 @@ def teacher_sidebar():
     st.sidebar.subheader("👨‍🏫 Teacher Login")
 
     pw = st.sidebar.text_input(
-        "Teacher Password",
+        "syed1234@",
         type="password"
     )
 
