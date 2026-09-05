@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+quiz_results.csv
+__pycache__/
+*.pyc
